@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Adonai 👋
 
-<!--
-**Adonai1027/Adonai1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy estudiante de Ingeniería en Sistemas de Información en la UTN FRRe (3er año, Argentina). Actualmente armo proyectos chicos para practicar distintos lenguajes y paradigmas — desde apps web hasta intérpretes de lenguajes.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+![Lenguajes](https://skillicons.dev/icons?i=c,py,js,html,css,lua)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Otras secciones comunes de perfil de GitHub
+👩‍💻 Actualmente estoy trabajando en **Trabajo Práctico** de la materia: Desarrollo de Software
+
+👯‍♀️ Busco colaborar en proyectos estudiantiles u open source en JavaScript o Python
+
+🤔 Busco ayuda con desarrollo backend y bases de datos
+
+💬 Preguntame sobre materias de la UTN, C, Python, o intérpretes de lenguajes (como mi proyecto smart-home)
+
+## 🔗 Links
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adonaip2710/)
+
+![badge](https://ghstats.dev/api/card?username=Adonai1027&theme=nightowl&size=compact)
+
+
+## 🐍 Snake de contribuciones
+![snake](https://raw.githubusercontent.com/Adonai1027/Adonai1027/output/github-contribution-grid-snake.svg)
