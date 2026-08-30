@@ -23,4 +23,4 @@ Soy estudiante de Ingeniería en Sistemas de Información en la UTN FRRe (3er a�
 
 
 ## 🐍 Snake de contribuciones
-![snake](https://raw.githubusercontent.com/Adonai1027/Adonai1027/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Adonai1027/Adonai1027/output/github-contribution-grid-snake-dark.svg)
